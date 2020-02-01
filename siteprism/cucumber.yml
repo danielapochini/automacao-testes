@@ -1,0 +1,11 @@
+## YAML Templatesss
+---
+default: -p pretty -p homolog -p chrome_headless
+
+pretty: --format pretty
+homolog: AMBIENTE=homolog
+producao: AMBIENTE=producao
+chrome: BROWSERs=chrome
+chrome_headless: BROWSERS=chrome_headless
+firefox: BROWSERs=firefox
+firefox_headless: BROWSERS=firefox_headless
