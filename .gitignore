@@ -1,0 +1,6 @@
+log/
+results/
+reports/
+screenshots/
+Gemfile.lock
+*.code-workspace
